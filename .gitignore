@@ -16,7 +16,10 @@ __pycache__/
 
 # Data (ETL inputs/outputs)
 data/input/*
+!data/input/.gitkeep
+
 data/output/*
+!data/output/.gitkeep
 
 # Logs
 *.log
