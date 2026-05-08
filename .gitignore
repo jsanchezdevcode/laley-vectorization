@@ -9,6 +9,7 @@ __pycache__/
 
 # Variables de entorno
 .env
+!.env.example
 
 # Base de datos SQLite
 *.sqlite
